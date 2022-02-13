@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Welcome to my profile !
+
+🌱 I am a 4th year Epitech student currently in exchange at Tsinghua University.<br>
+I uploded some of my Epitech projects on my profile under the name EPITECH-project_name-year. (*I uploaded them as is, so some of them can be a little messy* 😅)
+
+🔭 I’m currently working on "me." project on my free time.
+
+📫 How to reach me: mail ricque.cyprien@gmail.com or linkedin https://www.linkedin.com/in/cyprien-ricque/
+
 <!--
 **Cyprien-Ricque/Cyprien-Ricque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
