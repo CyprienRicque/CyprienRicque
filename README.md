@@ -4,7 +4,7 @@ Welcome to my profile !
 
 🌱 Master student at Epitech and Tsinghua University. I also spent one semester studying entrepreneurship at ESCP.
 
-⚡ My initial education is sofware engineer, but having high interest in data related fields I am majoring in Advanced Compute and multiple ML and data related classes
+⚡ My initial education is sofware engineer, but having high interest in data related fields I am majoring in Advanced Computing and attend all ML and data related classes
 
 📫 How to reach me: mail ricque.cyprien@gmail.com or linkedin https://www.linkedin.com/in/cyprien-ricque/
 
